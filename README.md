@@ -6,6 +6,6 @@
 Also needed for projects: 
   - ***Add below specific configuration in package.json***
     - {"scripts": { "postinstall": "ngcc" } }
-       - ***then npm install***
+    - ***then npm install***
 
 
