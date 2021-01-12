@@ -7,5 +7,6 @@
     - ***Add below specific configuration in package.json***
       - {"scripts": { "postinstall": "ngcc" } }
     - ***then npm install***
+## Other angular project: https://example-web-app-1efda.web.app/
 
 
